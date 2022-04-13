@@ -1,0 +1,45 @@
+_repo: Olavi-Auduninpoika_67616
+_version: 0.0.1
+alternative_title: Olav Audunssøn i Hestviken. Finnish
+contributor:
+  translator:
+    agent_name: Siegberg, Siiri
+    birthdate: 1890
+    deathdate: 1940
+    gutenberg_agent_id: '47324'
+    url: http://www.gutenberg.org/2009/agents/47324
+    wikipedia: https://fi.wikipedia.org/wiki/Siiri_Siegberg
+creator:
+  author:
+    agent_name: Undset, Sigrid
+    aliases:
+    - Unset, Sigrid
+    - Svarstad, Sigrid Undset
+    birthdate: 1882
+    deathdate: 1949
+    gutenberg_agent_id: '35742'
+    url: http://www.gutenberg.org/2009/agents/35742
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sigrid_Undset
+    - https://no.wikipedia.org/wiki/Sigrid_Undset
+    - https://fi.wikipedia.org/wiki/Sigrid_Undset
+description: ''
+gutenberg_issued: '2022-03-13'
+identifiers:
+  gutenberg: '67616'
+language: fi
+pgterms:marc905: 20220101065857undset
+pgterms:marc906: '1926'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :WSOY,1926,reprint 1954.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Norway -- History -- 1030-1397 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+- GITenberg
+title: Olavi Auduninpoika
+url: http://www.gutenberg.org/ebooks/67616
