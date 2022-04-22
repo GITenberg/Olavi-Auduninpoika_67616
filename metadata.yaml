@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47324'
     url: http://www.gutenberg.org/2009/agents/47324
     wikipedia: https://fi.wikipedia.org/wiki/Siiri_Siegberg
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Undset, Sigrid
@@ -24,6 +27,8 @@ creator:
     - https://no.wikipedia.org/wiki/Sigrid_Undset
     - https://fi.wikipedia.org/wiki/Sigrid_Undset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67616#Olavi-Auduninpoika
 gutenberg_issued: '2022-03-13'
 identifiers:
   gutenberg: '67616'
